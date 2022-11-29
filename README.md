@@ -6,7 +6,7 @@
 
 ### iOS
 
-![iOS app](screenshots/iOS.png?raw=true iOS app "KMM ios app")
+![iOS app](screenshots/iOS.png?raw=true"KMM ios app")
 
 ## Built With
 
